@@ -1,0 +1,47 @@
+_repo: The-Party-and-Other-Stories_13413
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Garnett, Constance
+    alias: Black, Constance Clara
+    birthdate: 1861
+    deathdate: 1946
+    gutenberg_agent_id: '2858'
+    url: http://www.gutenberg.org/2009/agents/2858
+    wikipedia:
+    - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
+    - http://en.wikipedia.org/wiki/Constance_Garnett
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Tchekhov, Anton
+    - Чехов, Антон Павлович
+    - Tshehov, Anton
+    - Chekov, Anton Pavlovich
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+description: ''
+gutenberg_issued: '2004-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13413'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+tableOfContents: The party -- Terror -- A woman's kingdom -- A problem -- The kiss
+  -- "Anna on the neck" -- The teacher of literature -- Not wanted -- Typhus -- A
+  misfortune -- A trifle from life.
+title: The Party and Other Stories
+url: http://www.gutenberg.org/ebooks/13413
